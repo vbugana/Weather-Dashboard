@@ -42,6 +42,7 @@ The following image shows the web application's appearance and functionality:
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 * [Moment.js](https://momentjs.com/docs/)
 * [Bootstrap](https://getbootstrap.com/)
-
+## Output
+[Live Page](https://vbugana.github.io/Weather-Dashboard/)
 ## License
 This project is licensed under the MIT License
